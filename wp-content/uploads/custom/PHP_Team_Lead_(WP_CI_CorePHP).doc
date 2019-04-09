@@ -1,0 +1,997 @@
+<style type='text/css'>
+        body{font-family: Verdana, sans-serif; font-size: 12px;}
+        h2 { font-family: Verdana, sans-serif; font-size: 12px; }
+        table { border-collapse: collapse; border:1px solid #ccc; width:100%;}
+        table td { border-collapse: collapse; border:1px solid #ccc; font-size: 12px; padding: 10px;}
+        .title { background-color: #eee; }
+        ul li { list-style-type:circle; padding: 5px; }
+    </style><h2>IT Skills</h2><table cellpadding="5"><tr><td width="25%" class="title"><b>Technology</b></td><td width="75%">AJAX, CSS, CSS 3, HTML, HTML 5, Javascript, PHP</td></tr><tr><td class='title'><b>Database</b></td><td>MySQL 4.0, MySQL 5.0</td></tr><tr><td class='title'><b>Opensource</b></td><td>CodeIgniter, Smarty - Template Engine, Wordpress</td></tr><tr><td class='title'><b>Os</b></td><td>MS-DOS, UNIX / LINUX, Windows 2000/2003/2008/2012 Server</td></tr><tr><td class='title'><b>Payment Gateways</b></td><td>2CO Checkout, Authorize.Net, Braintree, EBS, MolPay, PayPal</td></tr><tr><td class='title'><b>Third Party Components</b></td><td>Facebook API, Flickr API, Google API, Google Charts, Google Maps, Instagram API, Jquery, LinkedIn API</td></tr></table><br /><br /><br /><h2>Project Experience</h2><table><tr><td width="50%" align="center" class="title"><b>No of Projects</b></td><td width="50%" align="center" class="title"><b>Total Experience</b></td></tr><tr><td align="center">31 Projects</td><td align="center">7 Years 7 Months</td></tr></table><br style='page-break-before: always'><h2> #1</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Xchange6</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Desktop</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><p>This is a website which faciliate people to sell their used good to other people by using this website platform.</p>
+
+<p>This website is build in core php. We have used paypal split payment in this website.</p>
+
+<p>Payment from buyer get split into admin part and seller part and deposited into their respective account.<br />
+<br />
+User registration, login and profile functionlities are there in website.</p>
+
+<p>&nbsp;</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Framework / CMS Version</b></td><td colspan="3">Core PHP</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">Not Used</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">N.A</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">No</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">PayPal</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #2</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Wholesale Beauty Supply</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br />This is Beauty products supply selling website. In this website three types of users are involved, admin, vendor and end customer. Here admin can assign certain products to Vendor&#39;s account. Vendor can advertise his products to promote his sale. Vendor will get commision based on his sale.<br />
+We have achieved this marketplace profile with the help of two plugins woo-commerce and product vendor plugin. We have also customized vendor&#39;s profile page.</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.8</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">Woo-commerce, Product Vendor</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">CaptchaFile permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">Bit Bucket</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">No</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #3</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Marrickvillefc</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />Marrickvillefc is Marrickville football club website.<br />
+In this website there I have used woo-commerce plugin.<br />
+Revolution slider are used for slider on home page.<br />
+Some sport releated products are avaliable on website for sale.</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.8</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">Woo-commerce</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">File permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">Bit Bucket</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">No</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #4</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Reddevils Academy</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />Reddevils is football Academy website.<br />
+In this website there I have used woo-commerce plugin.<br />
+Revolution slider are used for slider on home page.<br />
+Some sport releated products are avaliable on website for sale.</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.8</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">Woo-commerce</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">CaptchaFile permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">N.A</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">GIT</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">No</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">PayPal</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #5</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Me-assist Website</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />Me-Assist is health advice releated website. People can register themselves on this website and go through test which comprises of series of questions. Question are releated to person&#39;s habits like alcoholic habits or drugs habit and their frequency. Once person go through number of test regarding his habits reports get generated based on their habits. This report is nothing but advices releated to end user.Use can also get pdf of those report. User can see history of his report in past.</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.8</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">CaptchaFile permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">N.A</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">Bit Bucket</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">None</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #6</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Starconsults</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">4 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />Starconsults is website which is build with woo-commerce plugin. We have also used product vendor plugin. Product vendor plugin is paid plugin from woo-commerce. This is marketplace website in which there are three type of people are involved, website admin, consultant and end user. To become a consultant on this website consultant needs to pay subscription fees.&nbsp; End user can register themselves and become a consultant.Consultant can add their services in website. End user can purchase services from consultant by paying via paypal.Admin can also pay commission to vendors depends upon settings in backend.</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">Woo-commerce, Product Vendor</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">CaptchaFile permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">Bit Bucket</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">None</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">PayPal</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #7</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >ddoors</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />This website is informative website for one glass doors and glass buidling material manufacturing company.<br />
+Website is having and backend and front end.<br />
+In backend Product category hirechory is mainatined upto 4 level.<br />
+All website&#39;s other pages data can be managed from backend.<br />
+We have made website SEO and mobile friendly.<br />
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">CodeIgniter</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">Windows 2000/2003/2008/2012 Server</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #8</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Nativefoto Website</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">4 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">3</td></tr><tr><td colspan="4"><b>Description</b><br />This website is basically image selling website.<br />
+We can login with facebook and instagram in this website.<br />
+We can fetch images from facebook and instrgam, flicker and dropbox.<br />
+We can also fetch video from dropbox. We can upload video from My computer.<br />
+We can use all import feature from social site in mobile devices.&nbsp;<br />
+We have made this website compititble with iphone-6 and Blackberry Z-10.<br />
+We have done this website compitible with basic mobile resolutions.</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Smarty - Template Engine</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">Windows 2000/2003/2008/2012 Server</td></tr><tr><td width="25%" class="title"><b>Third Party Components</b></td><td colspan="3">Facebook API, Flickr API, Google API, Instagram API</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #9</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Dance FM</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Social</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">4 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>This is radio website in Dubai.<br />
+There are different entity like programs, presenter, artists, competitions in this website. I have extended wordpress admin and added module like programs, presenter, artists, competitions. We have made relations in between these modules. &nbsp;We have also added custom fields under each module like image/video uploader and text fields. Apart from this there are other modules like competition participent entries, subscriber&#39;s list entries in admin has been done. There is gallery module in which one can upload images as well as videos under each album. Each gallery album can be associated with single program, presenter or&nbsp;artist. There is ads management module in admin with the help of that one can display particular ads on particular page of program, artist, presenter or any other page.<br />
+All above moules are created by doing coding, no plugin has been used for this. For most of listing in backend we have given export to excel facility.</p>
+
+<p>On front-end there is program slider at header. &nbsp;Each day that specific day&#39;s program get loaded in this header slider. Also in a day, with respect to current time that specific program having that time get loaded on that vertical pink line in slider, this is&nbsp;something like current ongoing program on website. There are different listing page like programs listing, artist listing, event listing and competitions listing page. On home page there are small snippets of each module like programs, events, artists, competitions, gallery, events. There are video and photo gallery pages. There are poup for displaying photos corresponding to particular gallery.</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.7.3</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">Share Buttons by AddThis, WP Offload S3 Lite, Fly Dynamic Image Resizer</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">no</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">Bootstrap</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">CaptchaFile permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">htaccess</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">GIT</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">JIRA</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">Windows 2000/2003/2008/2012 Server</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #10</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >friendsofnri</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />This is publishing website in which user can subscribe for newsletter.<br />
+We have created admin panel in Code-Ignitor framwork for this website.<br />
+Client want a scalable admin panel so we choosed CI so that in next phase we can enhance backend efficiently.<br />
+There are free and paid newsletter which client will put in backned.<br />
+On front-end user can register to website via facebook, linkedIn or simply filling website registration form.<br />
+After registration user can subscribe for free and paid news-letter.&nbsp;<br />
+For Paid newsletter subscription user can pay using EBS payment Gateway (For Indian Customer) OR paypal for international customer.<br />
+Admin will see all subscribed users in backend and there orders or subscription.<br />
+End user can renew subscription based on expiary date of subscription.</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">CodeIgniter</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">EBS, PayPal</td></tr><tr><td width="25%" class="title"><b>Third Party Components</b></td><td colspan="3">Facebook API, LinkedIn API</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #11</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Bostonairportcheapcar</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>Boston Airport Cheap Car provides airport taxi services for Boston City. Design layout of website supports iphone, android and tab devices. User needs to fill the booking form and after that distance and fare calculation will be done. User can register with the website or can book services using an guest account.</p>
+
+<p>Two payment gateways are used in this website.</p>
+
+<p>1. Paypal</p>
+
+<p>2. Authorize .Net</p>
+
+<p>Admin dashboard is also maintained for this website.</p>
+
+<p>Admin can add static page content from dashboard and these page content are displayed on website.</p>
+
+<p>Here admin can check users of the website, users bookings.</p>
+
+<p>He also can add taxi, taxi driver and also car services in the boston.</p>
+
+<p>He can assign driver to booking, Email and SMS goes to driver once admin assign booking.</p>
+
+<p>Admin can cancel any booking or delete booking.</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 4.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">CodeIgniter</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">Authorize.Net, PayPal</td></tr><tr><td width="25%" class="title"><b>Third Party Components</b></td><td colspan="3">Google Maps</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #12</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Scanme Asia</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Desktop + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">4 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><p>In this project backend and frontend is maintained. We have used wordpress default backend<br />
+but extended functionality of backend according to client&#39;s requirement.<br />
+* Frontend :<br />
+There are three types of user registration.<br />
+1.Dealer<br />
+2.Agent<br />
+3.Customer<br />
+Dealer and Agent can create their accounts. They can view their profile. Dealer can add agent<br />
+and customer. Agent can add customer. According to that commission is assigned to them.<br />
+Customer can view, edit their profile. Customer can add different types of QR code.<br />
+For that he has to subscribe for packages of Scanme Asia. Customer can edit and view<br />
+qrcode. After adding QR code, qr link is generated.<br />
+MOLpay payment gateway is used for payment. After payment invoice for every payment is<br />
+created.<br />
+Every customer registered through website is also registered as wordpress user. Every<br />
+customer can have their own wordpress backend where he/she can add business page or<br />
+can edit it.</p>
+
+<p><br />
+* Backend :<br />
+All registered users like customer, agent and dealer are displayed in backend where admin<br />
+can approve any user. Only after approval user can login.<br />
+Also admin can add packages for subscription.<br />
+Admin can add tax rate according to country for every package.<br />
+Admin can add countries which are displayed throughout website.<br />
+If any user paid by cheque then admin acn approve cheque details only after that<br />
+subscription is completed.<br />
+Admin can also add business page.<br />
+Also there is sub-domain like classified and bqr.<br />
+In classified user can register and add their posts.<br />
+bqr is for qrlink where qr code details are displayed.</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.2</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">wpml</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">CaptchaFile permissionshtaccess rules</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">Prevent source code to view to end user via java-script.</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">GIT</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">MIS Project Plan</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 4.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">MolPay</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #13</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Vitality 4 Life</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">CMS</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />This website is build in wordpress. This website faciliate to manage&nbsp; various data from backend.<br />
+From from pages like Write for us contact us user&#39;s data get captured.&nbsp;</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #14</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Swish</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">4 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><p>This website is is built in wordpress mulitdomain setup. Overall this wordpress setup is complex because it in built in wordpress multi-domain.</p>
+
+<p>Server needs to have certain featutes (like wild card DNS feature) then only wordpress multidomain setup can created. Also We have used that multlanguage plugin so managaging all language content&nbsp; with&nbsp; domain website is challending one.</p>
+
+<p>There is main website and different country or region wesbite are created on subdomain with different language. All website content can be managed via single wordpress admin panel.&nbsp;</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #15</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >News Assurances  website</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">3</td></tr><tr><td colspan="4"><b>Description</b><br /><p>
+	Insurance News is the first independent media web for insured launched in September 2008. The site includes a public space a discussion forum, a party dedicated professionals and a video area. This site has been reconstructed again from scratch and made live in Dec - 2011.</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #16</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Index Architectural website</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>
+	This website is to facilitate to put content on website. All content are managed via backend. This website is build using Core PHP. it also uses Ajax for some pages. Various worldwide info is listed here with date and venue. User&#39;s find various info about other categories here.</p>
+</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #17</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Komli </td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">3</td></tr><tr><td colspan="4"><b>Description</b><br /><p>
+	komli is an online advertising company in Mumbai which is having network in US, UK and Australia. Huge data is managed in this site. There are four versions of site for US, UK, India and Australia. We can switch to any country by top drown. The top three level of menu are managed via backend and according to country. Also there are various sections on website like New Events Press and Newsletters. For each News wordpress template has been created.</p>
+</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #18</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >China Instititute</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Portals</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<p>
+	This site is belong to an organization which is in US. It is the oldest organization in America devoted exclusively to China run by Chinese community in America. In this site we used various plugins related to users and customized Wordpress templates as per client&#39;s need.</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #19</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Style Me</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<p>
+	This site is a shopping store. It facilitates the research of stores in various localities of Mumbai. User can search store in various localities by store type and area. The website content is managed from backend.</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #20</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Property site</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Portals</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<p>
+	This site is done for South African client. This website is for apartments showcase. We purchased theme from themforest.com. We customized that theme according to clients need and added home listing from backend. Image gallery also has been provided. With gallery user can visualise internal apartment flat details.</p>
+</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #21</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >A -zof</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<p>
+	This site belong to one of the UK client. He has a very large business network. There are company franchises, dealers and users. Each user has different privileges. Everything is managed under single website.</p>
+</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #22</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Clickego </td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<p>
+	Clickego mainly provide various services like Google Adwords, Facebook advertising, web design, video spokeperson. You can select any service of your choice and pay for it online. The website is built on WordPress. Various plug-ins such as WP-commerce have been included for different functionalities. The website content is maintained from backend. This includes the website menus.</p>
+</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #23</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >News Assurance Pro</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Insurance</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%200.79in%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.08in%20%7D%0A%09%2D%2D%3E--></style>
+<p>
+	This is Press site. Every day various articles are published on the site. That article may contain videos from sites like viemo and Youtube. There are various custom post type that are added via back-end. We have customization part of theme. We have customized the plugin according to the client needs. Also I put some content via widgets. In this website Custom Post Type UI plugin is used widely. This plugin is used to add different types of post like video and other article. This plugin adds admin panel for creating custom post types. I have created different template for different custom post type. Sidebar Login Plugin is used to put sidebar login functionality via widgets. Wp-category-meta Plugin is used to add addition field for category which can be used for category page.</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">2CO Checkout</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #24</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Sydney Handyman</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">CMS</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br />These websites are service providing websites, providing a service of moving your Unit, Apartment, House, Townhouse or Office from Suburb to Suburb within the City of Sydney. The content in this website can be Add/Modified/Delete using Wordpress backend. Also some content is coming from Wordpress Widget. Ajax functionality is also used in these Websites. Some Jquery effects are also used in these sites (e.g. Datepicker).</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">AJAX, CSS, HTML, PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #25</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Citymoves</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">CMS</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br />This website is a service providing website, providing a service of moving your Unit, Apartment, House, Townhouse or Office from Suburb to Suburb within the City of Sydney. The content in this website can be Add/Modified/Delete using Wordpress backend. Also some content is coming from Wordpress Widget. Ajax functionality is also used in these Websites. Some Jquery effects are also used in these sites (e.g. Datepicker).</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">AJAX, CSS, HTML, Javascript, PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #26</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Setcom </td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">CMS</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>This website is a site describing &ldquo;Setcom payment gateway&rdquo;. It gives the introduction of that gateway. Here Ajax is used to give some effects to the site. Also a facility is given to download a particular file from the site.</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">AJAX, CSS, HTML, PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #27</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Healthy Heart</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">CMS</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br />This website is a part of medical application. As its name suggests, it has a Sugar Calculator which measures the sugar and guides the user to keep him healthy. It calculates sugar from the data entry of food consumption by user. It shows the graph of Weight, Blood pressure etc of logged in user. Also, it has a facility to add your recipe from your account to the Website.</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">AJAX, CSS, HTML, Javascript, PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #28</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Fuzenet</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Support</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">1</td></tr><tr><td colspan="4"><b>Description</b><br /><p>FuzeNet is an Australian telecommunications company delivering the fastest internet and phone services to residents and businesses.</p>
+
+<p>I have&nbsp;created&nbsp;the registration&nbsp;form with different Australian local API&#39;s as Symbill, Teamup and the payment gateway as Bpoint.</p>
+
+<p>There are four steps involved in user&#39;s registration for internet plan subscription. After filling basic information of step1, symbli&#39;s API gets called and successfull updation of data to symbill&#39;s&nbsp;&nbsp;API there is success response from symbill API&nbsp;then user&#39;s database table get&#39;s updated and after that internet service get started to that specifc user.</p>
+
+<p>For first 15 days internet service is free, Later user have to pay for it to continue. Payment details are already captured while first registration process.&nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.5.2</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">yes</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">no</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">Bootstrap</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">File permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">no</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">Bit Bucket</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">no</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #29</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >EuropaSat</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">CMS</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>This is the web application created in wordpress for the internet package providing with pricing in&nbsp;doller and euro.</p>
+
+<p>It will work like below steps.</p>
+
+<p>End user in his selected country&nbsp;can select network and choose the package from drop-down which you want.</p>
+
+<p>Based on selection&nbsp;we retrieve&nbsp;the price and other details from the JSON and added those to the database.</p>
+
+<p>Based on that create&nbsp;the order for the monthly or annually for the connection with free shipping as in particular country.</p>
+
+<p>Futher, compare&nbsp;the connection plans with each other and show the features.</p>
+
+<p>User can select one plan and can personalize&nbsp;that plan. In that user can choose billing period, installation type, rent a hardware or own hardware. Based on that final price will be displayed.</p>
+
+<p>With that final price for internet connection&nbsp;user can do the checkout and complete the order for purchasing network plan.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">4.3.2</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">yes</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">no</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3">File permissions</td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">no</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">GIT</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">no</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #30</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >YAG</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 Year 3 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>Client wishes to develop web based Digital photography Website for</p>
+
+<p>1. Digital photography professionals and enthusiasts who want to:</p>
+
+<p>a. SELL digital photo imagery</p>
+
+<p>b. Have their work COMPARED by a crowd-sourced community for EXPOSURE, RECOGNITION and PRIZES.</p>
+
+<p>c. Have equal access from desktop and mobile platforms.</p>
+
+<p>2. BUYERS of photographic art who wish to:</p>
+
+<p>a. Acquire images for broad range of uses: art, design, journalistic, corporate, etc.</p>
+
+<p>3. GENERAL INTERESTED PARTIES who enjoy images, are friends of YourArtGallery.com contributing photographers, or are engaged by gaming and ranking aspect of web site.</p>
+
+<p>Project Scope involved&nbsp;following modules / main areas of work.</p>
+
+<p>1. Home Page &amp; Static Page Module</p>
+
+<p>2. Admin Module</p>
+
+<p>3. Artist Module</p>
+
+<p>4. Buyer Module</p>
+5. Book Template &amp; Buy Artist Module
+
+<p>6. POS Integration Module</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">AJAX, CSS 3, HTML 5, Javascript, PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Smarty - Template Engine</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">MS-DOS, UNIX / LINUX</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">Braintree</td></tr><tr><td width="25%" class="title"><b>Third Party Components</b></td><td colspan="3">Google Charts, Jquery</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #31</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Europe4you</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Mobile + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Other</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">2</td></tr><tr><td colspan="4"><b>Description</b><br /><p>In this Project I have worked on following Modules:</p>
+
+<p><strong>1. Theme Creation</strong></p>
+
+<p>- Created own theme as per client requirement.</p>
+
+<p>- Its a Parallax website.</p>
+
+<p><strong>2. Login / Register Module</strong></p>
+
+<p>- Login and Register functionality, after successfull registration user can be registered as a subscriber.</p>
+
+<p>- Email to User after registration with login details.</p>
+
+<p><strong>3. Slider Module</strong></p>
+
+<p>- Created custom post type for slider and adding effect.</p>
+
+<p><strong>4. Iscriviti (Sign up) Module</strong></p>
+
+<p>- There are total 3 types of membership.</p>
+
+<p>- Created associati post-type, Membership name, price</p>
+
+<p>- Frontend management.</p>
+
+<p>- After registration, an user can switch his status becoming &laquo;associate-under35&raquo;, &laquo;associate-noprofit&raquo;&nbsp; and &laquo;associate-pmi&raquo;.<br />
+This can happen only after filling a custom form and eventually paying a fee (with a paypal integration).</p>
+
+<p><strong>5. Tenders Bandi Module</strong></p>
+
+<p>- Created custom post type Bandi, custom taxonomies.</p>
+
+<p>- Added custom fields for adding extra infomation.</p>
+
+<p>- Managing Bandi frontend, showing tendars depending on selected criteria.</p>
+
+<p><strong>6. Chi Siamo Module</strong></p>
+
+<p>- Created custom post type and frontend management.</p>
+
+<p><strong>7. Offerte Lavoro Module</strong></p>
+
+<p>- Created custom post type and frontend management.</p>
+
+<p><strong>8. Consulenza Module</strong></p>
+
+<p>- Custom form creation / mail functionlity.</p>
+
+<p>- Google map.</p>
+
+<p>- Newsletter subscription.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Wordpress Version</b></td><td colspan="3">WordPress 4.0.12</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr class="customfields"><td class="title bold"><b>Multilingual</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Multisite</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>E-commerce</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Plugins Used</b></td><td colspan="3">Yoast WordPress SEO plugin, MailPoet Newsletters</td></tr><tr class="customfields"><td class="title bold"><b>Custom Plugins Developed</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Theme frameworks</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>CSS framework</b></td><td colspan="3">None</td></tr><tr class="customfields"><td class="title bold"><b>Security Measures implemented</b></td><td colspan="3"></td></tr><tr class="customfields"><td class="title bold"><b>Other security measures</b></td><td colspan="3">No</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">SVN</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">No</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">AJAX, CSS, HTML, Javascript, PHP</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MySQL 5.0</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Wordpress</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td width="25%" class="title"><b>Payment Gateways</b></td><td colspan="3">PayPal</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>
+		Interaction with team to track performance of project and team</li>
+	<li>
+		Involvement in Research, Code Build &amp; Problem Solving</li>
+	<li>
+		Ensure implementation of Project Plan</li>
+	<li>
+		Gathered Business requirements</li>
+	<li>
+		Time / Cost and Effort estimation</li>
+	<li>
+		System Design and Database Design</li>
+	<li>
+		Created LLDs (including Class, Activity, Sequence Diagrams), FDs</li>
+	<li>
+		Code Reviews</li>
+	<li>
+		Unit Testing</li>
+	<li>
+		Meeting QA requirements</li>
+	<li>
+		Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'>
